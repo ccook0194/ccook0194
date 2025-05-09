@@ -1,4 +1,4 @@
-# Sr Software Engineer | Javascript, React, Node, Python, C#, PHP ...
+# Sr Python Software Engineer | Javascript, React, Node, Python, C#, ...
 
 Looking for a seasoned veteran in the tech industry to bring your ideas to life? – I'm Chris, your go-to expert for reliable, high-impact results.
 
@@ -7,15 +7,13 @@ I've been fascinated by technology since I was a teenager, and I turned that pas
 As I gained experience, I expanded my repertoire with further expertise in software engineering, especially in full-stack development leveraging Javascript, Typescript, Node, Python, C#, PHP, etc.
 
 ## Skills:
-✅ MERN, MEAN, Angular + .Net, React + .Net, React + Laravel, Vue + Laravel, Django + React, etc
-
 ✅ React: Redux, Next.js, Redux, Mobx, React Hooks, Gatsby, Redux-form
 
 ✅ Vue: Vuex, Nuxt.js, Vuetify
 
 ✅ Angular: RxJS, Angular CLI, Angular Material
 
-✅ Backend: Node, Express, Python, Django, Flask, FastAPI, C#, ASP.NET, Java, Spring Boot, PHP, Laravel, Symfony
+✅ Backend: Node, Express, Python, Django, Flask, FastAPI, C#, ASP.NET
 
 ✅ Database: MySQL, Postgres, MSSQL, MongoDB
 
